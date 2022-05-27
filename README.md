@@ -7,7 +7,7 @@ Written in 6502 assembly.
 
 # What was the Purpose of this Project?
 
-I was looking for a platform to port my ill fated [Agartha](https://github.com/JohnnyLdeAlba/agartha-flash) game engine to. I abandoned this project because it is too time consuming to write code in assembly. I felt it would be better if I stuck to a high level language instead. 
+I was looking for a platform to port my ill fated [Agartha](https://github.com/JohnnyLdeAlba/agartha-flash) game engine to. I abandoned this project because it was too time consuming writting code in assembly. I felt it would be better if I stuck to a high level language instead. 
 
 # Requirements
 
