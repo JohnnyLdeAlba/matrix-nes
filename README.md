@@ -11,5 +11,7 @@ I was looking for a platform to port my ill fated [Agartha](https://github.com/J
 
 # Requirements
 
-- [Ophis Assembler 2.1](https://michaelcmartin.github.io/Ophis/)
+- [Ophis Assembler 2.1](https://michaelcmartin.github.io/Ophis)
 - An NES or NES Emulator
+
+# [Watch a Preview on YouTube](https://www.youtube.com/watch?v=7hSfb7iZc-Y)
